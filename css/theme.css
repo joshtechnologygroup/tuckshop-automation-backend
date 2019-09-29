@@ -1,0 +1,42 @@
+/*
+Template Name: Bootstrap 4 Boilerplate
+Copyright: Sal, https://www.wowthemes.net, https://bootstrapstarter.com/
+*/
+
+body {padding-top:56px;}
+img {max-width:100%;}
+
+.add-button-container {
+    padding-bottom: 10px;
+}
+
+.padding-top-20 {
+    padding-top: 20px;
+}
+
+.padding-top-10 {
+    padding-top: 10px;
+}
+
+#custom-image-holder {
+    border: 1px solid #cccccc;
+}
+
+.custom-error-message {
+    font-size: 14px;
+    color: #dc3545;
+}
+
+.error-field {
+    border: 1px solid #dc3545 !important;
+}
+
+.login-alert-error {
+    padding: .75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
