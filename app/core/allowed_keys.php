@@ -2,5 +2,7 @@
 
 $apiKeys = [
     'PypyejLVCFvoT7qe',
-    'hoqUafSYrju26knj'
+    'hoqUafSYrju26knj',
+    'YPRwieKzZttEynCroBjEYHIFS',
+    'yJOsFfwMQHBLWXXfjtAlK'
 ];
