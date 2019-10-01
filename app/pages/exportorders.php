@@ -67,6 +67,7 @@ $months = getLastNMonthsOptionsArray(5);
                         </select>
                     </div>
                     <div class="col-auto padding-top-10">
+                        <a class="btn btn-secondary mb-2" href="<?= SITE_URL; ?>/products">Cancel</a>
                         <button type="submit" class="btn btn-primary mb-2">Export Data</button>
                     </div>
                 </form>
